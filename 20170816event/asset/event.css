@@ -1,0 +1,62 @@
+﻿body {
+	font-family:Segoe UI Light, Corbel, "微軟正黑體", Arial;
+	font-size: 15px;
+	letter-spacing: 0.1em;
+	word-spacing: 0.1em;
+}
+
+.f_t15{
+	text-decoration: none;
+	color: #000000;
+	font-size: 15px;
+	line-height: 20px;
+        font-weight: bold;
+}
+
+.f1_t15{
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 15px;
+	line-height: 20px;
+        font-weight: none;
+}
+
+.f2_t15{
+	text-decoration: none;
+	color: #000000;
+	font-size: 24px;
+
+        font-weight: bold;
+}
+
+.f3_t15{
+	text-decoration: none;
+	color: #000000;
+	font-size: 15px;
+	line-height: 20px;
+        font-weight: none;
+}
+.f4_t15{
+	text-decoration: none;
+	color: #000000;
+	font-size: 12px;
+	line-height: 20px;
+        font-weight: none;
+}
+.f5_t15{
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 13px;
+	line-height: 20px;
+        font-weight: none;
+}
+
+.f6_t15{
+	text-decoration: none;
+	color: #FF7B00;
+	font-size: 15px;
+	line-height: 20px;
+        font-weight: none;}
+
+ .p {border-bottom-style:solid; border-bottom-width:medium; border-color:#FFFFFF;} 
+
